@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{df7f6511-b93f-4cdc-b987-86dc87e8e9a3}</ProjectGuid>
-    <RootNamespace>My1puntoSobrecargaOperadores</RootNamespace>
+    <ProjectGuid>{795fb419-6fe2-4762-848e-1119809f3201}</ProjectGuid>
+    <RootNamespace>My2ordenamientodepuntos2D</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>1punto_sobrecarga_operadores</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

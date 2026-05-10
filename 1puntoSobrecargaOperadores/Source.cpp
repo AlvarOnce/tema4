@@ -52,8 +52,6 @@ public:
 	friend punto operator + (punto lhs, float k);				// permite p + k
 
 	// sobrecarga de comparadores (basados en la distancia al origen)
-
-
 	friend bool operator <		(const punto& lhs, const punto& rhs);
 	friend bool operator ==		(const punto& lhs, const punto& rhs);
 
